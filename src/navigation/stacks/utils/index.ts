@@ -1,0 +1,1 @@
+export { default as HeaderFeed } from './headerFeed/HeaderFeed';
